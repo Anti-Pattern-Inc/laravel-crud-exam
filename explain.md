@@ -26,7 +26,7 @@
     * Aurora MySQL(エンジンバージョン: 5.6.10a)
     * Elasticache Memcached(エンジンバージョン: 1.5.16)
     * S3
-* [リンク](https://github.com/Anti-Pattern-Inc/laravel-crud-exam/releases/tag/v1.1.1)から以下のjsonと画像をダウンロードしてS3にアップロードしてください、詳細は[リンク](https://github.com/kooooohe/laravel-crud-exam/releases/tag/v1.1.0)に記載されています。
+* [リンク](https://github.com/Anti-Pattern-Inc/laravel-crud-exam/releases/tag/v1.1.1)から以下のjsonと画像をダウンロードしてS3にアップロードしてください、詳細は[リンク](https://github.com/Anti-Pattern-Inc/laravel-crud-exam/releases/tag/v1.1.1)に記載されています。
     * workers.json
     * workers.jpg
     
