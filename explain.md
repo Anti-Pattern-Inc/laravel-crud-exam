@@ -28,7 +28,7 @@
     * Aurora MySQL(エンジンバージョン: 5.6.10a)
     * Elasticache Memcached(エンジンバージョン: 1.5.16)
     * S3
-* [リンク](https://github.com/Anti-Pattern-Inc/laravel-crud-exam/releases/tag/v1.1.1)から以下のjsonと画像をダウンロードしてS3にアップロードしてください、詳細は[リンク](https://github.com/Anti-Pattern-Inc/laravel-crud-exam/releases/tag/v1.1.1)に記載されています
+* [リンク](./explain_asset.md)から以下のjsonと画像をダウンロードしてS3にアップロードしてください、詳細は[リンク](./explain_asset.md)に記載されています
     * workers.json
     * workers.jpg
 * 試験用アカウントのRoute 53には以下のようなドメインが割り当てられています。DNSレコードを扱う場合は以下をお使いください
